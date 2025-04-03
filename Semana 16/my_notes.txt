@@ -1,0 +1,3 @@
+1. Aprender y dominar estructuras de datos es fundamental para escribir código más eficiente.
+2. La programación orientada a objetos ayuda a organizar mejor el código y facilitar su mantenimiento.
+3. Siempre que escriba código, debo hacer un esfuerzo por optimizar su rendimiento y evitar redundancias.
